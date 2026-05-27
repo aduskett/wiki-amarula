@@ -1,5 +1,15 @@
 Implementing Secureboot with Yocto Wrynose and Grub
 ===================================================
+.. raw:: html
+
+    <a href="https://www.amarulasolutions.com/contact" class="contact-button-inline">
+        Contact Us
+    </a>
+    <div class="contact-button-clear"></div>
+
+|
+|
+
 
 A customer recently came to Amarula Solutions with the task of creating
 a custom Yocto X64 image with the following features:
